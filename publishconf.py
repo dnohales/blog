@@ -17,8 +17,6 @@ RELATIVE_URLS = False
 FEED_ALL_ATOM = 'feeds/posts/default'
 CATEGORY_FEED_ATOM = 'feeds/posts/%s'
 
-DELETE_OUTPUT_DIRECTORY = True
-
 # Following items are often useful when publishing
 
 # DISQUS_SITENAME = ""

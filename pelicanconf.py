@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Damián Nohales'
 SITENAME = u'nohales.org blog'
 SITEURL = ''
-GITHUB_REPO_URL = 'https://github.com/eagleoneraptor/blog.nohales.org'
+GITHUB_REPO_URL = 'https://github.com/eagleoneraptor/blog'
 
 PATH = 'content'
 
